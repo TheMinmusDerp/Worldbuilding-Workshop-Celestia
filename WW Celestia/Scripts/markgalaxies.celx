@@ -1,0 +1,38 @@
+-- Major Galaxies
+celestia:find("The Silky Way"):mark("#7878FF", "circle", 6, 1.0, "The Silky Way")           -- Ring galaxy
+
+celestia:find("Stellfix Galaxy"):mark("#7878FF", "circle", 6, 1.0, "Stellfix Galaxy")       -- 2-Ring galaxy
+
+celestia:find("Milky Way"):mark("#7878FF", "circle", 6, 1.0, "Swirl Galaxy")                -- Milky Way
+
+celestia:find("Astros Galaxy"):mark("#7878FF", "circle", 6, 1.0, "Astros Galaxy")           -- Grand Design Barred Spiral
+
+celestia:find("Pear Galaxy"):mark("#7878FF", "circle", 6, 1.0, "Pear Galaxy")               -- Barred Spiral
+
+-- Minor Galaxies
+celestia:find("Nugget Galaxy"):mark("#00FF00", "circle", 6, 1.0, "Nugget Galaxy")           -- Irregular
+
+celestia:find("Wooly Galaxy"):mark("#00FF00", "circle", 6, 1.0, "Wooly Galaxy")             -- Irregular
+
+celestia:find("Cotton Galaxy"):mark("#00FF00", "circle", 6, 1.0, "Cotton Galaxy")           -- Dwarf Elliptical
+
+celestia:find("Linum Galaxy"):mark("#00FF00", "circle", 6, 1.0, "Linum Galaxy")             -- Irregular
+
+celestia:find("Fluff Galaxy"):mark("#00FF00", "circle", 6, 1.0, "Fluff Galaxy")             -- Dwarf Elliptical
+
+celestia:find("Rakel Overdensity"):mark("#00FF00", "circle", 6, 1.0, "Rakel Overdensity")   -- Overdensity
+
+celestia:find("Traxtans A"):mark("#00FF00", "circle", 6, 1.0, "Traxtans A")                 -- Irregular
+
+celestia:find("Traxtans B"):mark("#00FF00", "circle", 6, 1.0, "Traxtans B")                 -- Irregular
+
+celestia:find("Kraltuir Galaxy"):mark("#00FF00", "circle", 6, 1.0, "Kraltuir Galaxy")       -- Irregular
+
+-- Globular Clusters
+celestia:find("Web Cluster"):mark("#780000", "circle", 6, 1.0, "Web Cluster")               -- Bigboi
+
+celestia:find("Jewel Cluster"):mark("#780000", "circle", 6, 1.0, "Jewel Cluster")           -- Medium
+
+celestia:find("Ae Cluster"):mark("#780000", "circle", 6, 1.0, "Ae Cluster")                 -- Medium
+
+celestia:find("Kolachio Cluster"):mark("#780000", "circle", 6, 1.0, "Kolachio Cluster")     -- Bigboi
